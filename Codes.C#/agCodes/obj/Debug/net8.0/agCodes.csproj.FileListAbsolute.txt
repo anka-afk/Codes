@@ -1,0 +1,14 @@
+C:\Users\Laptop\Desktop\Codes\Codes.C#\agCodes\bin\Debug\net8.0\agCodes.exe
+C:\Users\Laptop\Desktop\Codes\Codes.C#\agCodes\bin\Debug\net8.0\agCodes.deps.json
+C:\Users\Laptop\Desktop\Codes\Codes.C#\agCodes\bin\Debug\net8.0\agCodes.runtimeconfig.json
+C:\Users\Laptop\Desktop\Codes\Codes.C#\agCodes\bin\Debug\net8.0\agCodes.dll
+C:\Users\Laptop\Desktop\Codes\Codes.C#\agCodes\bin\Debug\net8.0\agCodes.pdb
+C:\Users\Laptop\Desktop\Codes\Codes.C#\agCodes\obj\Debug\net8.0\agCodes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Laptop\Desktop\Codes\Codes.C#\agCodes\obj\Debug\net8.0\agCodes.AssemblyInfoInputs.cache
+C:\Users\Laptop\Desktop\Codes\Codes.C#\agCodes\obj\Debug\net8.0\agCodes.AssemblyInfo.cs
+C:\Users\Laptop\Desktop\Codes\Codes.C#\agCodes\obj\Debug\net8.0\agCodes.csproj.CoreCompileInputs.cache
+C:\Users\Laptop\Desktop\Codes\Codes.C#\agCodes\obj\Debug\net8.0\agCodes.dll
+C:\Users\Laptop\Desktop\Codes\Codes.C#\agCodes\obj\Debug\net8.0\refint\agCodes.dll
+C:\Users\Laptop\Desktop\Codes\Codes.C#\agCodes\obj\Debug\net8.0\agCodes.pdb
+C:\Users\Laptop\Desktop\Codes\Codes.C#\agCodes\obj\Debug\net8.0\agCodes.genruntimeconfig.cache
+C:\Users\Laptop\Desktop\Codes\Codes.C#\agCodes\obj\Debug\net8.0\ref\agCodes.dll
