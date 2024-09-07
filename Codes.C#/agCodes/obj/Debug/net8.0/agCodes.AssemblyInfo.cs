@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("agCodes")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+932eefdb99cde6d3df4ebfbe1a86408afcb32c8d")]
 [assembly: System.Reflection.AssemblyProductAttribute("agCodes")]
 [assembly: System.Reflection.AssemblyTitleAttribute("agCodes")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
